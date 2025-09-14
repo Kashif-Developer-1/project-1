@@ -1,4 +1,4 @@
 # project-1
 Work Together
 <br>
-Lets Create a Priject
+Lets Create a Project
